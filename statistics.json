@@ -1,0 +1,297 @@
+{
+    "total_uptime_seconds": 13431.16479730606,
+    "total_instances": 68,
+    "region_instances": {
+        "vergeland": 1,
+        "harangerfjord": 0,
+        "heimskringla": 0,
+        "sorian": 0,
+        "ortre": 4,
+        "almeric": 0,
+        "metanoia": 16,
+        "panfobion": 47
+    },
+    "region_times": {
+        "vergeland": 3892.488646507263,
+        "harangerfjord": 0.0,
+        "heimskringla": 0.0,
+        "sorian": 212.21759557724,
+        "ortre": 1605.2526936531067,
+        "almeric": 91.82245302200317,
+        "metanoia": 6863.827732801437,
+        "panfobion": 23537.44317674637
+    },
+    "chest_stats": {
+        "banked": {
+            "vergeland": {},
+            "harangerfjord": {},
+            "heimskringla": {},
+            "sorian": {},
+            "ortre": {},
+            "almeric": {},
+            "metanoia": {},
+            "panfobion": {}
+        },
+        "sold": {
+            "vergeland": {},
+            "harangerfjord": {},
+            "heimskringla": {},
+            "sorian": {},
+            "ortre": {},
+            "almeric": {},
+            "metanoia": {},
+            "panfobion": {}
+        },
+        "opened_vip": {
+            "vergeland": 0,
+            "harangerfjord": 0,
+            "heimskringla": 0,
+            "sorian": 0,
+            "ortre": 0,
+            "almeric": 0,
+            "metanoia": 0,
+            "panfobion": 0
+        },
+        "dark_crystals_used": {
+            "vergeland": 0,
+            "harangerfjord": 0,
+            "heimskringla": 0,
+            "sorian": 0,
+            "ortre": 0,
+            "almeric": 0,
+            "metanoia": 0,
+            "panfobion": 0
+        },
+        "dark_crystals_earned": {
+            "vergeland": 0,
+            "harangerfjord": 0,
+            "heimskringla": 0,
+            "sorian": 0,
+            "ortre": 0,
+            "almeric": 0,
+            "metanoia": 0,
+            "panfobion": 0
+        },
+        "sold_earnings": {
+            "daily": {
+                "vergeland": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "harangerfjord": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "heimskringla": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "sorian": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "ortre": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "almeric": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "metanoia": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "panfobion": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                }
+            },
+            "monthly": {
+                "vergeland": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "harangerfjord": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "heimskringla": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "sorian": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "ortre": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "almeric": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "metanoia": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "panfobion": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                }
+            },
+            "total": {
+                "vergeland": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "harangerfjord": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "heimskringla": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "sorian": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "ortre": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "almeric": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "metanoia": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                },
+                "panfobion": {
+                    "gold": 0,
+                    "silver": 0,
+                    "copper": 0
+                }
+            },
+            "last_reset": {
+                "daily": null,
+                "monthly": null
+            }
+        }
+    },
+    "total_earnings": {
+        "gold": 0,
+        "silver": 0,
+        "copper": 0,
+        "dark_crystals": 0
+    },
+    "item_stats": {
+        "total_banked": 0,
+        "total_sold": 0,
+        "total_opened_vip": 0,
+        "total_sold_earnings": 0,
+        "total_dark_crystals_used": 0,
+        "total_dark_crystals_earned": 0,
+        "earnings_daily_gold": 0,
+        "earnings_daily_silver": 0,
+        "earnings_daily_copper": 0,
+        "earnings_monthly_gold": 0,
+        "earnings_monthly_silver": 0,
+        "earnings_monthly_copper": 0,
+        "earnings_total_gold": 0,
+        "earnings_total_silver": 0,
+        "earnings_total_copper": 0
+    },
+    "region_stats": {
+        "vergeland": {
+            "visits": 0,
+            "time_spent": 0,
+            "banked": 0,
+            "sold": 0,
+            "opened_vip": 0,
+            "earnings": 0
+        },
+        "harangerfjord": {
+            "visits": 0,
+            "time_spent": 0,
+            "banked": 0,
+            "sold": 0,
+            "opened_vip": 0,
+            "earnings": 0
+        },
+        "heimskringla": {
+            "visits": 0,
+            "time_spent": 0,
+            "banked": 0,
+            "sold": 0,
+            "opened_vip": 0,
+            "earnings": 0
+        },
+        "sorian": {
+            "visits": 0,
+            "time_spent": 0,
+            "banked": 0,
+            "sold": 0,
+            "opened_vip": 0,
+            "earnings": 0
+        },
+        "ortre": {
+            "visits": 0,
+            "time_spent": 0,
+            "banked": 0,
+            "sold": 0,
+            "opened_vip": 0,
+            "earnings": 0
+        },
+        "almeric": {
+            "visits": 0,
+            "time_spent": 0,
+            "banked": 0,
+            "sold": 0,
+            "opened_vip": 0,
+            "earnings": 0
+        },
+        "metanoia": {
+            "visits": 0,
+            "time_spent": 0,
+            "banked": 0,
+            "sold": 0,
+            "opened_vip": 0,
+            "earnings": 0
+        },
+        "panfobion": {
+            "visits": 0,
+            "time_spent": 0,
+            "banked": 0,
+            "sold": 0,
+            "opened_vip": 0,
+            "earnings": 0
+        }
+    }
+}
